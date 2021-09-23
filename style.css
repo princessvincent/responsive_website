@@ -397,11 +397,12 @@ footer p{
     }
     .ham .ha p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 2rem;
+    font-size: 1rem;
     
     }
     .ham .ha img{
-        margin-left: 200px;
+        margin-left: 70px;
+        margin-right: 400px;
         /* font-size: 3rem; */
     }
 
@@ -410,19 +411,19 @@ footer p{
         background-repeat: no-repeat;
          background-size: 100% 100%;
         height: 100%;
-        width: 100%;
+        width: 60%;
     }
     .woman .text .house{
         text-align: center;
         /* padding: 30px; */
         padding-right: 500px;
-        padding-top: 600px;
+        padding-top: 200px;
         margin-left: 50px;
         /* margin-top: 150px; */
     }
     .woman .text h2{
     font-weight: 300;
-    font-size: 4rem;
+    font-size: 3rem;
     font-style: normal;
     letter-spacing: 3px;
     color: #ffffff !important;
@@ -430,14 +431,14 @@ footer p{
     }
     .woman .text h1{
         font-weight: 900;
-        font-size: 4.50rem;
+        font-size: 3.50rem;
         font-style: normal;
         color: white;
         font-family: "Archivo black";
     }
     .icons{
         border-top:15px solid white;
-        width: 85%;
+        width: 79%;
         padding-right: 70px;
         margin-top: 40px;
         /* margin-bottom: 60px; */
@@ -456,38 +457,38 @@ footer p{
         color: #ffffff;
         /* margin-right: 120px; */
     }
-    .icons .lets p{
+    .icons .paint p{
         color: white;
         font-family: Roboto,sans-serif;
         letter-spacing: 5px;
         text-transform: uppercase;
-        padding-left:20px;
+        padding-left:7px;
         text-align: center;
         font-size: 1rem;
         /* margin-left: 10px; */
     }
     .writing{
         background-color: #f2f2f2;
-        width: 100%;
+        width: 50%;
         height: 70%;
         margin-top: 10px;
     }
     .writing  .write h4{
-        padding-top: 200px;
+        padding-top: 80px;
         padding-bottom: 30px;
         color: #999999 !important;
         font-family: Roboto, sans-serif;
         letter-spacing: 4px;
-        font-weight: 300;
-        font-size: 2rem;
+        font-weight: 200;
+        font-size: 1rem;
     }
     .writing  .write h1{
-    font-size: 4rem;
-    font-weight: 700;
+    font-size: 1.60rem;
+    font-weight: 600;
     padding-bottom: 25px;
     }
     .writing  .write p{
-        font-size: 2.0rem;
+        font-size: 1.0rem;
         padding-bottom: 40px;
     }
     .writing  .write button{
@@ -495,12 +496,12 @@ footer p{
     background-color: #d1161e !important;
     border: 3px solid #d1161e !important;
     color: white;
-    width: 150px;
-    height: 55px;
+    width: 100px;
+    height: 40px;
     }
     .guys{
         background-color: #ffffff;
-        width: 100%;
+        width: 70%;
     }
     .guys .men{
         display: flex;
@@ -511,9 +512,11 @@ footer p{
     .men .a-guy img{
         margin-right: 40px;
         padding-bottom: 60px;
+        width: 60%;
+        height: 50%;
     }
     .men .a-guy p{
-        font-size: 1.90rem;
+        font-size: 1rem;
         font-weight: 10;
         text-align: left;
         padding-left: 5px;
@@ -522,13 +525,13 @@ footer p{
     }
     .this-guy img{
         padding-top: 60px;
+        width: 70%;
+        height: 60%;
     }
-    .this-guy{
-        /* margin-right: 5px; */
-    }
+
     .this-guy h2{
-    font-weight: 600;
-    font-size: 2.50rem;
+    font-weight: 500;
+    font-size: 1.50rem;
     font-family: Roboto,sans-serif;
     margin-right: 5px;
     margin-top: 50px;
@@ -536,8 +539,8 @@ footer p{
     }
     .this-guy h3{
     color: #e71a23 !important;
-    font-weight: 800;
-    font-size: 2.50rem;
+    font-weight: 700;
+    font-size: 1.50rem;
     margin-right: 5px;
     }
     .fineguy{
@@ -554,11 +557,11 @@ footer p{
     .fine-guy .fair-guy img{
         width: 100%;
         height: 50%;
-        margin-left: 250px;
+        margin-left: 150px;
     }
     .fine-guy .letters h1{
         margin-top: 350px;
-        margin-right: 60px;
+        margin-right: 40px;
         text-align: left;
         font-weight: 700;
         font-size: 2rem;
@@ -567,7 +570,7 @@ footer p{
         font-family: Roboto,sans-serif;
         color: #104e92 ;
         border-bottom: 10px solid #e71a23;
-        width: 260px;
+        width: 280px;
         /* padding-bottom: 20px; */
     }
     .fine-guy .letters p{
@@ -586,8 +589,8 @@ footer p{
     margin-top: 30px;
     margin-right: 800px;
     margin-bottom: 20px;
-    width: 150px;
-    height: 60px;
+    width: 100px;
+    height: 40px;
     background-color: #d1161e;
     color: #ffffff;
     border: 3px solid #d1161e;
@@ -601,36 +604,36 @@ footer p{
         flex-direction: column;
         margin-left: 200px;
         margin-top: 70px;
-        width: 600px;
+        width: 400px;
     }
     .work-tools .serv{
         margin-top: 80px;
         margin-bottom: 20px;
     }
     .work-tools .serv h1{
-        font-weight: 700;
-        font-size: 4rem;
+        font-weight: 600;
+        font-size: 2rem;
         font-family: Roboto,sans-serif;
         margin-right: 100px;
-        margin-left: 150px;
-        width: 70px;
+        margin-left: 100px;
+        width: 60px;
     }
     .ico .pa1 img{
-        width: 140px;
+        width: 90px;
         margin-bottom: 20px;
         margin-left: 10px;
-        margin-right: 180px;
+        margin-right: 480px;
     }
     
     .ico .pa{
-        width: 130px;
+        width: 120px;
         padding-bottom:40px;
         padding-right: 50px;
         background-color: #e71a23;
         border-radius: 50%; 
         position: relative;
         margin-bottom: 20px;
-        margin-left: 130px;
+        margin-left: 10px;
         margin-top: 50px;
         /* text-align: center; */
     }
@@ -641,18 +644,19 @@ footer p{
     }
     
     .ico .pan h4{
-        font-size: 2.50rem;
+        font-size: 1.10rem;
         word-wrap: break-word;
         font-family: Roboto,sans-serif;
         padding-bottom: 20px;
+        margin-right: 200px;
     }
     .ico .pan .p{
-        font-size: 2rem;
+        font-size: 0.80rem;
         word-wrap: break-word;
         font-family: Roboto,sans-serif;
         font-style: italic;
         text-align: left;
-        padding-left: 150px;
+        padding-left: 50px;
         /* padding-left: 130px; */
     }
     .boys{
@@ -668,7 +672,7 @@ footer p{
     .boys .lett-boys{
         display: flex;
         flex-direction: column;
-        margin-right: 20px;
+        margin-right:300px;
         width: 20px;
         margin-left: 150px;
     }
@@ -691,8 +695,8 @@ footer p{
         /* margin-left: 550px; */
     }
     .design img{
-        width: 300px;
-        height: 200px; 
+        width: 180px;
+        height: 100px; 
         justify-content: space-between;
         justify-content: center;
         padding-bottom: 10px;
@@ -709,8 +713,8 @@ footer p{
         /* margin-bottom: 5px; */
     }
     .desig1 img{
-    width: 300px;
-    height: 200px;
+    width: 180px;
+    height: 100px;
     padding-bottom: 10px;
     /* margin-bottom: 30px; */
      /* width: 20px;  */
@@ -738,18 +742,18 @@ footer p{
 
     .todo-letter{
         background-color: #ffffff;
-        width: 100%;
+        width: 80%;
         height: 50%;
         margin-top: 80px;
         }
         .todo-letter .let h1{
-        font-size: 2.80rem;
-        font-weight: 800;
+        font-size: 1.0rem;
+        font-weight: 600;
         padding-bottom: 30px;
         
         }
         .todo-letter .let p{
-        font-size: 2.40rem;
+        font-size: 1.0rem;
         word-wrap: break-word;
         color: #111111;
         padding-bottom: 25px;
@@ -762,13 +766,13 @@ footer p{
         .butt2 .butt1{
             background-color: #d1161e;
             color: #ffffff;
-            width: 150px;
-            height: 50px;
+            width: 100px;
+            height: 40px;
             margin-right: 30px;
             border: 3px solid #d1161e;
         }
         .butt2 .cal{
-            width: 150px;
+            width: 100px;
             height: 50px;
             background-color: #ffffff;
             border: 1px solid #111111;
@@ -815,11 +819,11 @@ footer p{
             }
             .ham .ha p{
             font-family: 'Courier New', Courier, monospace;
-            font-size: 3rem;
+            font-size: 2rem;
             
             }
             .ham .ha img{
-                margin-left: 200px;
+                margin-left: 170px;
                 /* font-size: 3rem; */
             }
         
@@ -829,12 +833,14 @@ footer p{
                 background-size: 100% 100%;
                 height: 100%;
                 width: 100%;
+                overflow: hidden;
             }
+
             .woman .text .house{
                 text-align: center;
                 /* padding: 30px; */
                 padding-right: 500px;
-                padding-top: 200px;
+                padding-top: 300px;
                 margin-left: 30px;
             }
             .woman .text h2{
@@ -847,7 +853,7 @@ footer p{
             }
             .woman .text h1{
                 font-weight: 900;
-                font-size: 4.50rem;
+                font-size: 4.30rem;
                 font-style: normal;
                 color: white;
                 font-family: "Archivo black";
@@ -857,6 +863,7 @@ footer p{
                 width: 85%;
                 padding-right: 70px;
                 margin-top: 30px;
+                display: none;
                 /* margin-bottom: 60px; */
                  margin-left:40px ;
                 margin-right:120px; 
@@ -866,6 +873,7 @@ footer p{
             .icons .paint{
                 margin-top: 20px;
                 width: 20px;
+                display: none;
             }
             .icons .paint img{
                 width: 60px;
@@ -918,19 +926,23 @@ footer p{
             .guys{
                 background-color: #ffffff;
                 width: 100%;
+                overflow: hidden;
             }
             .guys .men{
                 display: flex;
                 flex-direction: column;
                 padding: 70px;
-                padding-left: 90px; 
+                padding-left: 90px;
+                width: 100%; 
             }
             .men .a-guy img{
                 margin-right: 40px;
                 padding-bottom: 60px;
+                width: 100%;
+                height: 100%;
             }
             .men .a-guy p{
-                font-size: 1.60rem;
+                font-size: 1.90rem;
                 font-weight: 10;
                 text-align: left;
                 padding-left: 5px;
@@ -939,13 +951,14 @@ footer p{
             }
             .this-guy img{
                 padding-top: 60px;
+                width: 100%;
+                height: 100%;
+
             }
-            .this-guy{
-                /* margin-right: 5px; */
-            }
+            
             .this-guy h2{
             font-weight: 600;
-            font-size: 2.0rem;
+            font-size: 2.70rem;
             font-family: Roboto,sans-serif;
             margin-right: 5px;
             margin-top: 50px;
@@ -970,12 +983,12 @@ footer p{
             }
             .fine-guy .fair-guy img{
                 width: 100%;
-                height: 50%;
+                height: 40%;
                 margin-left: 100px;
             }
             .fine-guy .letters h1{
-                margin-top: 350px;
-                margin-right: 60px;
+                margin-top: 200px;
+                margin-right: 100px;
                 text-align: left;
                 font-weight: 700;
                 font-size: 2rem;
@@ -984,7 +997,7 @@ footer p{
                 font-family: Roboto,sans-serif;
                 color: #104e92 ;
                 border-bottom: 10px solid #e71a23;
-                width: 260px;
+                width: 200px;
                 /* padding-bottom: 20px; */
             }
             .fine-guy .letters p{
@@ -1012,6 +1025,7 @@ footer p{
             .work-tools{
                 background-color: #ffffff;
                 margin-bottom: 100px;
+                /* width: 50%; */
             }
             .work-tools .ico{
                 display: flex;
@@ -1019,6 +1033,7 @@ footer p{
                 margin-left: 100px;
                 margin-top: 70px;
                 width: 400px;
+                overflow: hidden;
             }
             .work-tools .serv{
                 margin-top: 80px;
@@ -1026,17 +1041,21 @@ footer p{
             }
             .work-tools .serv h1{
                 font-weight: 700;
-                font-size: 3rem;
+                font-size: 2rem;
                 font-family: Roboto,sans-serif;
-                margin-right: 100px;
+                margin-right: 130px;
                 margin-left: 150px;
                 width: 70px;
+            }
+            .ico{
+                margin-right: auto;
+
             }
             .ico .pa1 img{
                 width: 140px;
                 margin-bottom: 20px;
                 margin-left: 10px;
-                margin-right: 180px;
+                margin-right: 10px;
             }
             
             .ico .pa{
@@ -1058,13 +1077,13 @@ footer p{
             }
             
             .ico .pan h4{
-                font-size: 2.20rem;
+                font-size: 1.50rem;
                 word-wrap: break-word;
                 font-family: Roboto,sans-serif;
                 padding-bottom: 20px;
             }
             .ico .pan .p{
-                font-size: 2rem;
+                font-size: 1rem;
                 word-wrap: break-word;
                 font-family: Roboto,sans-serif;
                 font-style: italic;
@@ -1077,7 +1096,7 @@ footer p{
                 background-repeat:no-repeat ;
                 background-size: 100% 100%;
                 /* overflow: hidden; */
-                width: 100%;
+                width: 10%;
                 height: 100%;
                 padding-bottom: 30px;
                 padding-right: 1000px;
@@ -1156,18 +1175,21 @@ footer p{
         
             .todo-letter{
                 background-color: #ffffff;
+                background-size: 40% 40%;
                 width: 100%;
                 height: 100%;
                 margin-top: 80px;
+                padding-left: 80px;
+                /* margin-bottom: 20px; */
                 }
                 .todo-letter .let h1{
-                font-size: 2.50rem;
-                font-weight: 800;
+                font-size: 2.20rem;
+                font-weight: 600;
                 padding-bottom: 30px;
                 
                 }
                 .todo-letter .let p{
-                font-size: 2.20rem;
+                font-size: 2rem;
                 word-wrap: break-word;
                 color: #111111;
                 padding-bottom: 25px;
@@ -1180,14 +1202,14 @@ footer p{
                 .butt2 .butt1{
                     background-color: #d1161e;
                     color: #ffffff;
-                    width: 150px;
-                    height: 50px;
+                    width: 200px;
+                    height: 60px;
                     margin-right: 30px;
                     border: 3px solid #d1161e;
                 }
                 .butt2 .cal{
-                    width: 150px;
-                    height: 50px;
+                    width: 200px;
+                    height: 60px;
                     background-color: #ffffff;
                     border: 1px solid #111111;
                     padding: 20px;
@@ -1196,8 +1218,9 @@ footer p{
                 footer{
                     background-color: #333333;
                     width: 100%;
-                    height: 40%;
+                    height: 50%;
                     color: #ffffff;
+                    /* margin-top: 200px; */
                 }
                 footer p{
                    
