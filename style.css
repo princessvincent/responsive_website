@@ -806,7 +806,7 @@ footer p{
             color: skyblue;
         }
         
-        @media (max-width:320px){
+        @media (max-width:430px){
             .ham{
                 background-color: white;
                 justify-content: center;
