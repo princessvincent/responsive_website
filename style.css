@@ -411,7 +411,7 @@ footer p{
         background-repeat: no-repeat;
          background-size: 100% 100%;
         height: 100%;
-        width: 800px;
+        width: 1040px;
     }
     .woman .text .house{
         text-align: center;
@@ -469,7 +469,7 @@ footer p{
     }
     .writing{
         background-color: #f2f2f2;
-        width: 730px;
+        width: 1050px;
         height: 70%;
         margin-top: 10px;
     }
@@ -501,7 +501,7 @@ footer p{
     }
     .guys{
         background-color: #ffffff;
-        width: 70%;
+        width: 950px;
     }
     .guys .men{
         display: flex;
@@ -548,6 +548,7 @@ footer p{
         background-size: 100% 100%;
         background-repeat: no-repeat;
         background-position: 100% 100%;
+        width: 1050px;
         /* margin-right: 20px; */
     }
     .fineguy .fine-guy{
@@ -664,7 +665,7 @@ footer p{
         background-repeat:no-repeat ;
         background-size: 100% 100%;
         /* overflow: hidden; */
-        width: 100%;
+        width: 1050px;
         height: 100%;
         padding-bottom: 30px;
     
@@ -781,9 +782,10 @@ footer p{
         }
         footer{
             background-color: #333333;
-            width: 100%;
+            width: 1050px;
             height: 40%;
             color: #ffffff;
+            padding-right:350px;
         }
         footer p{
            
