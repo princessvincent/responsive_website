@@ -788,11 +788,11 @@ footer p{
             }
             .ham .ha p{
             font-family: 'Courier New', Courier, monospace;
-            font-size: 2rem;
+            font-size: 3rem;
             
             }
             .ham .ha img{
-                margin-left: 870px;
+                margin-left: 1700px;
                 /* font-size: 3rem; */
             }
         
@@ -800,16 +800,16 @@ footer p{
                 background-image: url(image/hero-bg.jpg);
                 background-repeat: no-repeat;
                 background-size: 100% 100%;
-                height: 100%;
-                width: 1050px;
+                height: 1500px;
+                width: 2000px;
                 overflow: hidden;
             }
 
             .woman .text .house{
                 text-align: center;
                 /* padding: 30px; */
-                padding-right: 500px;
-                padding-top: 300px;
+                padding-right: 1400px;
+                padding-top: 1000px;
                 margin-left: 30px;
             }
             .woman .text h2{
@@ -821,15 +821,15 @@ footer p{
             text-align: center;
             }
             .woman .text h1{
-                font-weight: 900;
-                font-size: 4.30rem;
+                font-weight: 1000;
+                font-size: 6.30rem;
                 font-style: normal;
                 color: white;
                 font-family: "Archivo black";
             }
             .icons{
                 border-top:15px solid white;
-                width: 85%;
+                width: 45%;
                 padding-right: 70px;
                 margin-top: 30px;
                 display: none;
@@ -862,8 +862,8 @@ footer p{
             }
             .writing{
                 background-color: #f2f2f2;
-                width: 1050px;
-                height: 100%;
+                width: 2000px;
+                height: 800px;
                 margin-top: 10px;
             }
             .writing  .write h4{
@@ -894,7 +894,7 @@ footer p{
             }
             .guys{
                 background-color: #ffffff;
-                width: 1090px;
+                width: 1700px;
                 overflow: hidden;
             }
             .guys .men{
@@ -902,7 +902,7 @@ footer p{
                 flex-direction: column;
                 padding: 70px;
                 padding-left: 90px;
-                width: 100%; 
+                width: 1900px; 
             }
             .men .a-guy img{
                 margin-right: 40px;
@@ -911,7 +911,7 @@ footer p{
                 height: 100%;
             }
             .men .a-guy p{
-                font-size: 1.0rem;
+                font-size: 3.0rem;
                 font-weight: 50;
                 text-align: left;
                 padding-left: 5px;
@@ -923,32 +923,34 @@ footer p{
             }
             .this-guy img{
                 padding-top: 60px;
-                width: 100%;
+                width: 1900px;
                 height: 100%;
 
             }
             
             .this-guy h2{
             font-weight: 600;
-            font-size: 2.70rem;
+            font-size: 5.70rem;
             font-family: Roboto,sans-serif;
-            margin-right: 5px;
+            margin-right: 10px;
             margin-top: 50px;
             padding-bottom: 30px;
+            width: 1500px;
             }
             .this-guy h3{
             color: #e71a23 !important;
             font-weight: 800;
-            font-size: 2.0rem;
+            font-size: 5.0rem;
             margin-right: 5px;
+            width: 950px;
             }
             .fineguy{
                 background-image: url(image/g.jpg);
                 background-size: 100% 100%;
                 background-repeat: no-repeat;
                 background-position: 100% 100%;
-                 width: 1080px; 
-                 height: 1000px;
+                 width: 2000px; 
+                 height: 1300px;
                 /* margin-right: 20px; */
             }
             .fineguy .fine-guy{
@@ -957,12 +959,12 @@ footer p{
             }
             .fine-guy .fair-guy img{
                 width: 500px;
-                height: 400px;
+                height: 600px;
                 margin-left: 70px;
                 margin-right: 250px;
             }
             .fine-guy .letters{
-                margin-left: 350px;
+                margin-left: 850px;
                 margin-bottom: 100px;
             }
             .fine-guy .letters h1{
@@ -994,7 +996,7 @@ footer p{
             }
             .fine-guy .letters button{
             margin-top: 30px;
-            margin-right: 800px;
+            margin-right: 1000px;
             margin-bottom: 20px;
             width: 150px;
             height: 60px;
@@ -1080,8 +1082,8 @@ footer p{
             }
             .boys{
                
-            width: 1080px;
-            height: 700px;
+            width: 2000px;
+            height: 1900px;
             }
             .lett-boys{
                 background-color: #104e92;
@@ -1091,7 +1093,7 @@ footer p{
                 /* width: 100px;  */
                 /* height: 100%; */
                 padding-bottom: 30px;
-                padding-right: 1000px;
+                padding-left: 400px;
             }
             .boys .lett-boys{
                 display: flex;
@@ -1119,8 +1121,8 @@ footer p{
                 /* margin-left: 550px; */
             }
             .design img{
-                width: 200px;
-                height: 100px; 
+                width: 600px;
+                height: 400px; 
                 justify-content: space-between;
                 justify-content: center;
                 padding-bottom: 10px;
@@ -1137,8 +1139,8 @@ footer p{
                 /* margin-bottom: 5px; */
             }
             .desig1 img{
-            width: 200px;
-            height: 200px;
+            width: 600px;
+            height: 400px;
             padding-bottom: 10px;
             /* margin-bottom: 30px; */
              /* width: 20px;  */
@@ -1167,20 +1169,20 @@ footer p{
             .todo-letter{
                 background-color: #ffffff;
                 background-size: 40% 40%;
-                width: 460px;
-                height: 100%;
+                width: 2000px;
+                height: 800px;
                 margin-top: 60px;
-                padding-left: 120px;
+                padding-right: 300px;
                 /* margin-bottom: 7px;  */
                 }
                 .todo-letter .let h1{
-                font-size: 2.0rem;
+                font-size: 5.0rem;
                 font-weight: 600;
                 padding-bottom: 30px;
                 
                 }
                 .todo-letter .let p{
-                font-size: 1.80rem;
+                font-size: 3.80rem;
                 word-wrap: break-word;
                 color: #111111;
                 padding-bottom: 25px;
@@ -1193,31 +1195,32 @@ footer p{
                 .butt2 .butt1{
                     background-color: #d1161e;
                     color: #ffffff;
-                    width: 200px;
-                    height: 60px;
+                    width: 400px;
+                    height: 100px;
                     margin-right: 30px;
                     border: 3px solid #d1161e;
                 }
                 .butt2 .cal{
-                    width: 200px;
-                    height: 60px;
+                    width: 400px;
+                    height: 100px;
                     background-color: #ffffff;
                     border: 1px solid #111111;
-                    padding: 20px;
+                    padding: 50px;
                 
                 }
                 footer{
                     background-color: #333333;
-                    width: 1080px;
-                    height: 50%;
+                    width: 2000px;
+                    height: 400px;
                     color: #ffffff;
-                    padding-right: 250px;
+                    padding-right: 450px;
+                    /* padding-left: 280px; */
                     /* margin-top: 200px; */
                 }
                 footer p{
                    
                     padding-top: 80px;
-                    font-size: 1rem;
+                    font-size: 2rem;
                     padding-bottom: 80px;
                 }
                 .links{
