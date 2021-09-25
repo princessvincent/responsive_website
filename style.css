@@ -395,14 +395,16 @@ footer p{
         justify-content: space-between;
         margin: 50px;
     }
-    .ham .ha p{
+     .ham .ha p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 1rem;
+    font-size: 5rem;
     
     }
     .ham .ha img{
-        margin-left: 550px;
+        margin-left: 1600px;
         margin-right: 400px;
+        width: 60px;
+        /* max-width: ; */
         /* font-size: 3rem; */
     }
 
@@ -410,35 +412,35 @@ footer p{
         background-image: url(image/hero-bg.jpg);
         background-repeat: no-repeat;
          background-size: 100% 100%;
-        height: 100%;
-        width: 1030px;
+        height: 1500px;
+        width: 2000px;
     }
     .woman .text .house{
         text-align: center;
         /* padding: 30px; */
-        padding-right: 500px;
-        padding-top: 200px;
+        padding-right: 1070px;
+        padding-top: 500px;
         margin-left: 50px;
         /* margin-top: 150px; */
     }
     .woman .text h2{
-    font-weight: 300;
-    font-size: 3rem;
+    font-weight: 400;
+    font-size: 6rem;
     font-style: normal;
     letter-spacing: 3px;
     color: #ffffff !important;
     text-align: center;
     }
     .woman .text h1{
-        font-weight: 900;
-        font-size: 3.50rem;
+        font-weight: 1000;
+        font-size: 8.50rem;
         font-style: normal;
         color: white;
         font-family: "Archivo black";
     }
     .icons{
         border-top:15px solid white;
-        width: 79%;
+        width: 49%;
         padding-right: 70px;
         margin-top: 40px;
         /* margin-bottom: 60px; */
@@ -452,7 +454,7 @@ footer p{
         width: 40px;
     }
     .icons .paint img{
-        width: 50px;
+        width: 130px;
         padding-bottom: 30px;
         color: #ffffff;
         /* margin-right: 120px; */
@@ -464,31 +466,31 @@ footer p{
         text-transform: uppercase;
         padding-left:7px;
         text-align: center;
-        font-size: 1rem;
+        font-size: 2rem;
         /* margin-left: 10px; */
     }
     .writing{
         background-color: #f2f2f2;
-        width: 1050px;
-        height: 70%;
+        width: 2000px;
+        height: 1000;
         margin-top: 10px;
     }
     .writing  .write h4{
-        padding-top: 80px;
+        padding-top: 200px;
         padding-bottom: 30px;
         color: #999999 !important;
         font-family: Roboto, sans-serif;
         letter-spacing: 4px;
         font-weight: 200;
-        font-size: 1rem;
+        font-size: 3rem;
     }
     .writing  .write h1{
-    font-size: 1.60rem;
-    font-weight: 600;
+    font-size: 5.60rem;
+    font-weight: 1030;
     padding-bottom: 25px;
     }
     .writing  .write p{
-        font-size: 1.0rem;
+        font-size: 2.50rem;
         padding-bottom: 40px;
     }
     .writing  .write button{
@@ -496,27 +498,27 @@ footer p{
     background-color: #d1161e !important;
     border: 3px solid #d1161e !important;
     color: white;
-    width: 100px;
-    height: 40px;
+    width: 200px;
+    height: 80px;
     }
     .guys{
         background-color: #ffffff;
-        width: 950px;
+        width: 1050px;
     }
     .guys .men{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         padding: 70px;
         padding-left: 90px; 
     }
     .men .a-guy img{
         margin-right: 40px;
         padding-bottom: 60px;
-        width: 800px;
-        height: 50%;
+        width: 900px;
+        height: 600px;
     }
     .men .a-guy p{
-        font-size: 1.50rem;
+        font-size: 2.50rem;
         font-weight: 10;
         text-align: left;
         padding-left: 5px;
@@ -525,13 +527,13 @@ footer p{
     }
     .this-guy img{
         padding-top: 60px;
-        width: 800px;
-        height: 60%;
+        width: 900px;
+        height: 600px;
     }
 
     .this-guy h2{
     font-weight: 600;
-    font-size: 2.50rem;
+    font-size: 3.50rem;
     font-family: Roboto,sans-serif;
     margin-right: 5px;
     margin-top: 50px;
@@ -540,7 +542,7 @@ footer p{
     .this-guy h3{
     color: #e71a23 !important;
     font-weight: 700;
-    font-size: 2.50rem;
+    font-size: 3.50rem;
     margin-right: 5px;
     }
     .fineguy{
@@ -548,7 +550,8 @@ footer p{
         background-size: 100% 100%;
         background-repeat: no-repeat;
         background-position: 100% 100%;
-        width: 1050px;
+        width: 2000px;
+        height: 800px;
         /* margin-right: 20px; */
     }
     .fineguy .fine-guy{
@@ -556,8 +559,8 @@ footer p{
         flex-direction: row; 
     }
     .fine-guy .fair-guy img{
-        width: 390px;
-        height: 490px;
+        width: 790px;
+        height: 690px;
         margin-left: 100px;
         margin-top: 100px;
         padding-left: 50px;
@@ -572,13 +575,13 @@ footer p{
         /* margin-right: 40px; */
         text-align: left;
         font-weight: 700;
-        font-size: 2rem;
-        padding-top: 250px;
+        font-size: 2.30rem;
+        padding-top: 350px;
         padding-bottom: 20px;
         font-family: Roboto,sans-serif;
         color: #104e92 ;
         border-bottom: 10px solid #e71a23;
-        width: 280px;
+        width: 380px;
         /* padding-bottom: 20px; */
     }
     .fine-guy .letters p{
@@ -586,7 +589,7 @@ footer p{
     margin-right: 200px;
     text-align: left;
     font-family: Roboto,sans-serif;
-    font-size: 1.10rem;
+    font-size: 1.40rem;
     word-wrap: break-word;
     letter-spacing: 1px;
     font-weight: 500;
@@ -698,22 +701,28 @@ footer p{
 
     .todo-letter{
         background-color: #ffffff;
-        width: 950px;
-        height: 500px;
-        margin-top: 80px;
-        justify-content:center;
+        width: 1000px;
+        height: 700px;
+        margin-top: 100px;
+        text-align:center;
         }
         .todo-letter .let h1{
-        font-size: 4.0rem;
+        font-size: 5.0rem;
         font-weight: 600;
         padding-bottom: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+            /* padding-left: 200px; */
         
         }
         .todo-letter .let p{
-        font-size: 2.40rem;
+        font-size: 3.10rem;
         word-wrap: break-word;
         color: #111111;
         padding-bottom: 25px;
+        padding-left:100px ;
+        
         }
         .butt2{
             display: flex;
@@ -723,30 +732,32 @@ footer p{
         .butt2 .butt1{
             background-color: #d1161e;
             color: #ffffff;
-            width: 200px;
-            height: 70px;
+            width: 300px;
+            height: 100px;
             margin-right: 30px;
             border: 3px solid #d1161e;
+            font-size: 1rem;
         }
         .butt2 .cal{
-            width: 200px;
-            height: 70px;
+            width: 260px;
+            height: 100px;
             background-color: #ffffff;
             border: 1px solid #111111;
             padding: 20px;
+            font-size: 1rem;
         
         }
         footer{
             background-color: #333333;
             width: 2000px;
-            height: 40%;
+            height: 60%;
             color: #ffffff;
             padding-right:750px;
         }
         footer p{
            
             padding-top: 80px;
-            font-size: 1rem;
+            font-size: 2.30rem;
             padding-bottom: 80px;
         }
         .links{
@@ -756,7 +767,7 @@ footer p{
         }
         .links a{
             color:#abcff7 ;
-            font-size: 0.80rem;
+            font-size: 1.10rem;
             padding-left: 5px;
             padding-right: 5px;
         }
@@ -937,29 +948,36 @@ footer p{
                 background-repeat: no-repeat;
                 background-position: 100% 100%;
                  width: 1080px; 
+                 height: 1000px;
                 /* margin-right: 20px; */
             }
             .fineguy .fine-guy{
                 display: flex;
-                flex-direction: row;
+                flex-direction: column;
             }
             .fine-guy .fair-guy img{
-                width: 100%;
-                height: 40%;
-                margin-left: 100px;
+                width: 500px;
+                height: 400px;
+                margin-left: 70px;
+                margin-right: 250px;
+            }
+            .fine-guy .letters{
+                margin-left: 350px;
+                margin-bottom: 100px;
             }
             .fine-guy .letters h1{
-                margin-top: 200px;
-                margin-right: 100px;
+                /* margin-top: 300px; */
+                 /* margin-left: 100px;  */
                 text-align: left;
                 font-weight: 700;
                 font-size: 2rem;
-                padding-top: 80px;
+                padding-top: 10px; 
                 padding-bottom: 20px;
                 font-family: Roboto,sans-serif;
                 color: #104e92 ;
                 border-bottom: 10px solid #e71a23;
                 width: 200px;
+                
                 /* padding-bottom: 20px; */
             }
             .fine-guy .letters p{
