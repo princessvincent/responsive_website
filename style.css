@@ -384,7 +384,7 @@ footer p{
     color: skyblue;
 }
 
-@media (max-width:768px){
+@media (max-width:1024px){
     .ham{
         background-color: white;
         justify-content: center;
@@ -397,12 +397,12 @@ footer p{
     }
      .ham .ha p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 5rem;
+    font-size: 2rem;
     
     }
     .ham .ha img{
-        margin-left: 1600px;
-        margin-right: 400px;
+        margin-left: 780px;
+        margin-right: 600px;
         width: 60px;
         /* max-width: ; */
         /* font-size: 3rem; */
@@ -412,20 +412,20 @@ footer p{
         background-image: url(image/hero-bg.jpg);
         background-repeat: no-repeat;
          background-size: 100% 100%;
-        height: 1500px;
-        width: 2000px;
+        height: 800px;
+      width: 1100px;
     }
     .woman .text .house{
         text-align: center;
         /* padding: 30px; */
         padding-right: 1070px;
-        padding-top: 500px;
+        padding-top: 380px;
         margin-left: 50px;
         /* margin-top: 150px; */
     }
     .woman .text h2{
     font-weight: 400;
-    font-size: 6rem;
+    font-size: 2rem;
     font-style: normal;
     letter-spacing: 3px;
     color: #ffffff !important;
@@ -433,14 +433,14 @@ footer p{
     }
     .woman .text h1{
         font-weight: 1000;
-        font-size: 8.50rem;
+        font-size: 3.50rem;
         font-style: normal;
         color: white;
         font-family: "Archivo black";
     }
     .icons{
         border-top:15px solid white;
-        width: 49%;
+        width: 59%;
         padding-right: 70px;
         margin-top: 40px;
         /* margin-bottom: 60px; */
@@ -451,74 +451,81 @@ footer p{
     }
     .icons .paint{
         margin-top: 40px;
-        width: 40px;
+        width: 500px;
+        /* margin-right: 50px; */
     }
     .icons .paint img{
-        width: 130px;
+        width: 80px;
         padding-bottom: 30px;
         color: #ffffff;
-        /* margin-right: 120px; */
+        /* margin-right: 120px;  */
     }
     .icons .paint p{
         color: white;
         font-family: Roboto,sans-serif;
         letter-spacing: 5px;
         text-transform: uppercase;
-        padding-left:7px;
+        padding-left:10px;
+        /* padding-right: 10px; */
         text-align: center;
-        font-size: 2rem;
+        font-size: 1.60rem;
+        /* width: 730px; */
+
         /* margin-left: 10px; */
     }
     .writing{
         background-color: #f2f2f2;
-        width: 2000px;
-        height: 1000;
+        width: 1100px;
+        height: 900;
         margin-top: 10px;
     }
     .writing  .write h4{
-        padding-top: 200px;
+        padding-top: 100px;
         padding-bottom: 30px;
         color: #999999 !important;
         font-family: Roboto, sans-serif;
         letter-spacing: 4px;
         font-weight: 200;
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .writing  .write h1{
-    font-size: 5.60rem;
+    font-size: 4.60rem;
     font-weight: 1030;
     padding-bottom: 25px;
     }
     .writing  .write p{
         font-size: 2.50rem;
         padding-bottom: 40px;
+        padding-left: 340px;
+        width: 650px;
     }
     .writing  .write button{
     text-align: center;
     background-color: #d1161e !important;
     border: 3px solid #d1161e !important;
     color: white;
-    width: 200px;
-    height: 80px;
+    width: 300px;
+    height: 100px;
+    padding-right: 20px;
     }
     .guys{
         background-color: #ffffff;
-        width: 1050px;
+        width: 1100px;
     }
     .guys .men{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         padding: 70px;
         padding-left: 90px; 
     }
     .men .a-guy img{
         margin-right: 40px;
         padding-bottom: 60px;
-        width: 900px;
-        height: 600px;
+        width: 800px;
+        height: 500px;
     }
     .men .a-guy p{
-        font-size: 2.50rem;
+        font-size: 2rem;
         font-weight: 10;
         text-align: left;
         padding-left: 5px;
@@ -527,13 +534,13 @@ footer p{
     }
     .this-guy img{
         padding-top: 60px;
-        width: 900px;
-        height: 600px;
+        width: 800px;
+        height: 500px;
     }
 
     .this-guy h2{
     font-weight: 600;
-    font-size: 3.50rem;
+    font-size: 2.50rem;
     font-family: Roboto,sans-serif;
     margin-right: 5px;
     margin-top: 50px;
@@ -542,7 +549,7 @@ footer p{
     .this-guy h3{
     color: #e71a23 !important;
     font-weight: 700;
-    font-size: 3.50rem;
+    font-size: 2.50rem;
     margin-right: 5px;
     }
     .fineguy{
@@ -550,8 +557,8 @@ footer p{
         background-size: 100% 100%;
         background-repeat: no-repeat;
         background-position: 100% 100%;
-        width: 2000px;
-        height: 800px;
+        width: 1100px;
+        height: 700px;
         /* margin-right: 20px; */
     }
     .fineguy .fine-guy{
@@ -559,16 +566,18 @@ footer p{
         flex-direction: row; 
     }
     .fine-guy .fair-guy img{
-        width: 790px;
-        height: 690px;
-        margin-left: 100px;
+        width: 600px;
+        height: 600px;
+        padding-right: 50px; 
         margin-top: 100px;
-        padding-left: 50px;
+        /* margin-right: 80px;  */
         margin-bottom: 50px;
     }
     .fine-guy .letters{
         margin-left: 50px;
         margin-bottom: 20px;
+        /* padding-right: 900px; */
+        padding-right: 1500px;
     }
     .fine-guy .letters h1{
         margin-top: 10px;
@@ -576,12 +585,12 @@ footer p{
         text-align: left;
         font-weight: 700;
         font-size: 2.30rem;
-        padding-top: 350px;
+        padding-top: 150px;
         padding-bottom: 20px;
         font-family: Roboto,sans-serif;
         color: #104e92 ;
         border-bottom: 10px solid #e71a23;
-        width: 380px;
+        width: 280px;
         /* padding-bottom: 20px; */
     }
     .fine-guy .letters p{
@@ -620,7 +629,7 @@ footer p{
         background-repeat:no-repeat ;
         background-size: 100% 100%;
         /* overflow: hidden; */
-        width: 2000px;
+        width: 1100px;
         height: 800px;
         padding-bottom: 30px;
     
@@ -628,8 +637,8 @@ footer p{
     .boys .lett-boys{
         display: flex;
         flex-direction: row;
-        margin-right:600px;
-        width: 160px;
+        margin-right:800px;
+        width: 260px;
         /* margin-left: 150px; */
     }
     .lett-boys .design-boys{
@@ -652,7 +661,7 @@ footer p{
         /* margin-left: 550px; */
     }
     .design img{
-        width: 400px;
+        width: 250px;
         height: 300px; 
         justify-content: space-between;
         justify-content: center;
@@ -671,7 +680,7 @@ footer p{
         /* margin-bottom: 5px; */
     }
     .desig1 img{
-    width: 400px;
+    width: 250px;
     height: 300px;
     padding-bottom: 10px;
     /* margin-bottom: 30px; */
@@ -749,7 +758,7 @@ footer p{
         }
         footer{
             background-color: #333333;
-            width: 2000px;
+            width: 1100px;
             height: 60%;
             color: #ffffff;
             padding-right:750px;
@@ -759,11 +768,13 @@ footer p{
             padding-top: 80px;
             font-size: 2.30rem;
             padding-bottom: 80px;
+            width: 900px;
         }
         .links{
             display: flex;
             flex-direction: row;
             justify-content: center;
+            width: 800px;
         }
         .links a{
             color:#abcff7 ;
@@ -775,7 +786,7 @@ footer p{
             color: skyblue;
         }
         
-        @media (max-width:430px){
+        @media (max-width:450px){
             .ham{
                 background-color: white;
                 justify-content: center;
@@ -788,11 +799,11 @@ footer p{
             }
             .ham .ha p{
             font-family: 'Courier New', Courier, monospace;
-            font-size: 3rem;
+            font-size: 1rem;
             
             }
             .ham .ha img{
-                margin-left: 1700px;
+                margin-left: 250px;
                 /* font-size: 3rem; */
             }
         
@@ -800,36 +811,36 @@ footer p{
                 background-image: url(image/hero-bg.jpg);
                 background-repeat: no-repeat;
                 background-size: 100% 100%;
-                height: 1500px;
-                width: 2000px;
+                height: 500px;
+                width: 400px;
                 overflow: hidden;
             }
 
             .woman .text .house{
                 text-align: center;
                 /* padding: 30px; */
-                padding-right: 1400px;
-                padding-top: 1000px;
+                padding-right: 200px;
+                padding-top: 200px;
                 margin-left: 30px;
             }
             .woman .text h2{
             font-weight: 300;
-            font-size: 4rem;
+            font-size: 2rem;
             font-style: normal;
             letter-spacing: 3px;
             color: #ffffff !important;
             text-align: center;
             }
             .woman .text h1{
-                font-weight: 1000;
-                font-size: 6.30rem;
+                font-weight: 800;
+                font-size: 3.30rem;
                 font-style: normal;
                 color: white;
                 font-family: "Archivo black";
             }
             .icons{
                 border-top:15px solid white;
-                width: 45%;
+                width: 55%;
                 padding-right: 70px;
                 margin-top: 30px;
                 display: none;
@@ -862,9 +873,10 @@ footer p{
             }
             .writing{
                 background-color: #f2f2f2;
-                width: 2000px;
-                height: 800px;
+                width: 500px;
+                height: 700px;
                 margin-top: 10px;
+                padding-right: 100px;
             }
             .writing  .write h4{
                 padding-top: 50px;
@@ -876,13 +888,14 @@ footer p{
                 font-size: 2rem;
             }
             .writing  .write h1{
-            font-size: 4rem;
+            font-size: 3rem;
             font-weight: 700;
             padding-bottom: 25px;
             }
             .writing  .write p{
-                font-size: 1.5rem;
-                padding-bottom: 40px;
+                padding-left:70px ;
+                width: 370px;
+                font-size: 2rem;
             }
             .writing  .write button{
             text-align: center;
@@ -894,7 +907,7 @@ footer p{
             }
             .guys{
                 background-color: #ffffff;
-                width: 1700px;
+                width: 600px;
                 overflow: hidden;
             }
             .guys .men{
@@ -902,7 +915,7 @@ footer p{
                 flex-direction: column;
                 padding: 70px;
                 padding-left: 90px;
-                width: 1900px; 
+                width: 400px; 
             }
             .men .a-guy img{
                 margin-right: 40px;
@@ -911,7 +924,7 @@ footer p{
                 height: 100%;
             }
             .men .a-guy p{
-                font-size: 3.0rem;
+                font-size: 1.0rem;
                 font-weight: 50;
                 text-align: left;
                 padding-left: 5px;
@@ -919,38 +932,38 @@ footer p{
                 /* letter-spacing: 1px; */
             }
             .this-guy{
-                width: 460px;
+                width: 300px;
             }
             .this-guy img{
                 padding-top: 60px;
-                width: 1900px;
+                width: 100%;
                 height: 100%;
 
             }
             
             .this-guy h2{
             font-weight: 600;
-            font-size: 5.70rem;
+            font-size: 1.90rem;
             font-family: Roboto,sans-serif;
-            margin-right: 10px;
+            margin-right: 330px;
             margin-top: 50px;
             padding-bottom: 30px;
-            width: 1500px;
+            width: 300px;
             }
             .this-guy h3{
             color: #e71a23 !important;
             font-weight: 800;
-            font-size: 5.0rem;
-            margin-right: 5px;
-            width: 950px;
+            font-size: 1.90rem;
+            margin-right: 300px;
+            width: 250px;
             }
             .fineguy{
                 background-image: url(image/g.jpg);
                 background-size: 100% 100%;
                 background-repeat: no-repeat;
                 background-position: 100% 100%;
-                 width: 2000px; 
-                 height: 1300px;
+                 width: 400px; 
+                 height: 1000px;
                 /* margin-right: 20px; */
             }
             .fineguy .fine-guy{
@@ -958,13 +971,13 @@ footer p{
                 flex-direction: column;
             }
             .fine-guy .fair-guy img{
-                width: 500px;
-                height: 600px;
+                width: 200px;
+                height: 300px;
                 margin-left: 70px;
-                margin-right: 250px;
+                margin-right: 650px;
             }
             .fine-guy .letters{
-                margin-left: 850px;
+                margin-left: 150px;
                 margin-bottom: 100px;
             }
             .fine-guy .letters h1{
@@ -1004,21 +1017,22 @@ footer p{
             color: #ffffff;
             border: 3px solid #d1161e;
             }
-            .work-tools{
+             .work-tools{
                 background-color: #ffffff;
                 margin-bottom: 100px;
                 /* height: 70%; */
                 display: flex;
                 flex-direction: column;
-                width: 1020px;  
+                width: 400px;  
                 position: relative;
             }
             .work-tools .ico{
                 display: flex;
                 flex-direction: column;
-                /* margin-left: 100px; */
+                margin-left: 0px; 
                 margin-top: 70px;
-                width: 400px;
+                width: 350px;
+                margin-right: 1500px;
                 /* overflow: hidden; */
             }
             .work-tools .serv{
@@ -1043,7 +1057,7 @@ footer p{
                 margin-bottom: 10px;
                 margin-left: 10px;
                 margin-right: 10px;
-            }
+            } */
             
             .ico .pa{
                 width: 5rem;
@@ -1060,8 +1074,8 @@ footer p{
             }
             .ico .pa img{
                 width: 70px;
-                padding-top: 20px;
-                padding-left: 20px;
+                padding-top: 10px;
+                padding-left: 10px;
             }
             
             .ico .pan h4{
@@ -1072,7 +1086,7 @@ footer p{
                 /* padding-top: 40px; */
             }
             .ico .pan .p{
-                font-size: 1rem;
+                font-size: 1.25rem;
                 word-wrap: break-word;
                 font-family: Roboto,sans-serif;
                 font-style: italic;
@@ -1082,8 +1096,8 @@ footer p{
             }
             .boys{
                
-            width: 2000px;
-            height: 1900px;
+            width: 400px;
+            height: 1000px;
             }
             .lett-boys{
                 background-color: #104e92;
@@ -1093,7 +1107,7 @@ footer p{
                 /* width: 100px;  */
                 /* height: 100%; */
                 padding-bottom: 30px;
-                padding-left: 400px;
+                padding-left: 50px;
             }
             .boys .lett-boys{
                 display: flex;
@@ -1105,7 +1119,7 @@ footer p{
             .lett-boys .design-boys{
                 display: flex;
                 flex-direction: column;
-                padding-right: 300px;
+                padding-right: 500px;
                 /* margin-left: 10px; */
               width: 10px; 
                 /* padding: 20px; */
@@ -1121,8 +1135,8 @@ footer p{
                 /* margin-left: 550px; */
             }
             .design img{
-                width: 600px;
-                height: 400px; 
+                width: 200px;
+                height: 200px; 
                 justify-content: space-between;
                 justify-content: center;
                 padding-bottom: 10px;
@@ -1139,8 +1153,8 @@ footer p{
                 /* margin-bottom: 5px; */
             }
             .desig1 img{
-            width: 600px;
-            height: 400px;
+            width: 200px;
+            height: 200px;
             padding-bottom: 10px;
             /* margin-bottom: 30px; */
              /* width: 20px;  */
@@ -1169,70 +1183,81 @@ footer p{
             .todo-letter{
                 background-color: #ffffff;
                 background-size: 40% 40%;
-                width: 2000px;
-                height: 800px;
+                width: 500px;
+                height: 700px;
                 margin-top: 60px;
-                padding-right: 300px;
+                padding-right: 120px;
                 /* margin-bottom: 7px;  */
                 }
                 .todo-letter .let h1{
-                font-size: 5.0rem;
+                font-size: 2.0rem;
                 font-weight: 600;
                 padding-bottom: 30px;
                 
                 }
                 .todo-letter .let p{
-                font-size: 3.80rem;
+                font-size: 1.80rem;
                 word-wrap: break-word;
                 color: #111111;
                 padding-bottom: 25px;
+                padding-right: 30px;
                 }
                 .butt2{
                     display: flex;
-                    flex-direction: row;
+                    flex-direction: column;
                     justify-content: center;
+                    margin-left: 120px;
                 }
                 .butt2 .butt1{
                     background-color: #d1161e;
                     color: #ffffff;
-                    width: 400px;
-                    height: 100px;
+                    width: 150px;
+                    height: 70px;
                     margin-right: 30px;
                     border: 3px solid #d1161e;
+                    
                 }
                 .butt2 .cal{
-                    width: 400px;
-                    height: 100px;
+                    width: 150px;
+                    height: 70px;
                     background-color: #ffffff;
                     border: 1px solid #111111;
-                    padding: 50px;
+                    /* padding-bottom: 20px;  */
+                    /* padding-right: 30px; */
+                    margin-top: 30px;
+                    text-align: center;
                 
                 }
                 footer{
                     background-color: #333333;
-                    width: 2000px;
-                    height: 400px;
+                    width: 500px;
+                    height: 300px;
                     color: #ffffff;
                     padding-right: 450px;
                     /* padding-left: 280px; */
                     /* margin-top: 200px; */
                 }
-                footer p{
+                footer p {
                    
                     padding-top: 80px;
-                    font-size: 2rem;
+                    font-size: 0.80rem;
                     padding-bottom: 80px;
+                    padding-left: 60px;
+                    width: 370px;
                 }
                 .links{
                     display: flex;
                     flex-direction: row;
-                    justify-content: center;
+                   justify-content: center;
+                   width: 600px;
+                   padding-right: 200px;
                 }
-                .links a{
+                .links a {
                     color:#abcff7 ;
                     font-size: 0.80rem;
                     padding-left: 5px;
-                    padding-right: 5px;
+                    /* padding-right: 45px;  */
+                     /* width: 370px;   */
                 }
                 .links a:hover{
                     color: skyblue;
